@@ -1,0 +1,305 @@
+movie_year,title,round,movie_rank
+1902,"Trip to the Moon, A (Voyage dans la lune, Le) (1902)",3.75,1
+1915,"Birth of a Nation, The (1915)",3.11,1
+1920,"Cabinet of Dr. Caligari, The (Cabinet des Dr. Caligari., Das) (1920)",3.91,1
+1921,"Kid, The (1921)",3.95,1
+1922,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",3.88,1
+1923,Safety Last! (1923),3.92,1
+1924,Sherlock Jr. (1924),3.92,1
+1925,"Gold Rush, The (1925)",4.05,1
+1925,Battleship Potemkin (1925),3.85,2
+1925,Ben-Hur: A Tale of the Christ (1925),3.69,3
+1926,"General, The (1926)",4.10,1
+1927,Metropolis (1927),3.98,1
+1927,Sunrise: A Song of Two Humans (1927),3.97,2
+1928,"Passion of Joan of Arc, The (Passion de Jeanne d'Arc, La) (1928)",4.00,1
+1928,"Circus, The (1928)",3.91,2
+1928,Steamboat Willie (1928),3.45,3
+1929,"Man with the Movie Camera, The (Chelovek s kino-apparatom) (1929)",4.01,1
+1929,"Andalusian Dog, An (Chien andalou, Un) (1929)",3.76,2
+1930,All Quiet on the Western Front (1930),3.95,1
+1930,Animal Crackers (1930),3.95,1
+1930,"Blue Angel, The (Blaue Engel, Der) (1930)",3.89,3
+1931,M (1931),4.16,1
+1931,City Lights (1931),4.11,2
+1931,"Maltese Falcon, The (a.k.a. Dangerous Female) (1931)",4.01,3
+1932,Horse Feathers (1932),3.97,1
+1932,Trouble in Paradise (1932),3.95,2
+1932,Scarface (1932),3.76,3
+1932,Freaks (1932),3.76,3
+1933,Duck Soup (1933),4.08,1
+1933,Little Women (1933),3.61,2
+1933,"Invisible Man, The (1933)",3.56,3
+1934,"Thin Man, The (1934)",4.15,1
+1934,It Happened One Night (1934),4.13,2
+1934,"Gay Divorcee, The (1934)",3.91,3
+1935,Top Hat (1935),4.04,1
+1935,"Night at the Opera, A (1935)",4.01,2
+1935,"39 Steps, The (1935)",3.98,3
+1936,Modern Times (1936),4.09,1
+1936,My Man Godfrey (1936),4.02,2
+1936,After the Thin Man (1936),3.89,3
+1937,Grand Illusion (La grande illusion) (1937),4.13,1
+1937,"Day at the Races, A (1937)",3.98,2
+1937,Shall We Dance (1937),3.97,3
+1938,"Lady Vanishes, The (1938)",4.06,1
+1938,Bringing Up Baby (1938),4.02,2
+1938,Holiday (1938),3.93,3
+1939,"Rules of the Game, The (La règle du jeu) (1939)",4.02,1
+1939,Mr. Smith Goes to Washington (1939),4.01,2
+1939,Ninotchka (1939),3.99,3
+1940,"Philadelphia Story, The (1940)",4.14,1
+1940,His Girl Friday (1940),4.10,2
+1940,Rebecca (1940),4.07,3
+1941,"Maltese Falcon, The (1941)",4.15,1
+1941,"Lady Eve, The (1941)",4.10,2
+1941,Citizen Kane (1941),4.09,3
+1942,Casablanca (1942),4.21,1
+1942,"Palm Beach Story, The (1942)",4.06,2
+1942,To Be or Not to Be (1942),3.95,3
+1943,Shadow of a Doubt (1943),4.11,1
+1943,"Ox-Bow Incident, The (1943)",3.87,2
+1943,For Whom the Bell Tolls (1943),3.64,3
+1944,Double Indemnity (1944),4.19,1
+1944,Laura (1944),4.06,2
+1944,Arsenic and Old Lace (1944),4.04,3
+1945,Children of Paradise (Les enfants du paradis) (1945),4.13,1
+1945,"Rome, Open City (a.k.a. Open City) (Roma, città aperta) (1945)",3.94,2
+1945,Mildred Pierce (1945),3.93,3
+1946,"Big Sleep, The (1946)",4.16,1
+1946,Notorious (1946),4.16,1
+1946,"Best Years of Our Lives, The (1946)",4.08,3
+1947,Out of the Past (1947),4.08,1
+1947,Black Narcissus (1947),3.85,2
+1947,"Ghost and Mrs. Muir, The (1947)",3.81,3
+1948,"Treasure of the Sierra Madre, The (1948)",4.12,1
+1948,Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),4.12,1
+1948,Key Largo (1948),3.98,3
+1949,"Third Man, The (1949)",4.20,1
+1949,Kind Hearts and Coronets (1949),4.03,2
+1949,White Heat (1949),3.97,3
+1950,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),4.21,1
+1950,All About Eve (1950),4.17,2
+1950,Rashomon (Rashômon) (1950),4.13,3
+1951,Strangers on a Train (1951),4.12,1
+1951,"African Queen, The (1951)",4.07,2
+1951,"Streetcar Named Desire, A (1951)",4.00,3
+1952,Ikiru (1952),4.11,1
+1952,Singin' in the Rain (1952),4.05,2
+1952,High Noon (1952),4.04,3
+1953,Stalag 17 (1953),4.09,1
+1953,Tokyo Story (Tôkyô monogatari) (1953),4.07,2
+1953,Roman Holiday (1953),4.05,3
+1954,Seven Samurai (Shichinin no samurai) (1954),4.25,1
+1954,Rear Window (1954),4.24,2
+1954,On the Waterfront (1954),4.13,3
+1955,Song of the Little Road (Pather Panchali) (1955),4.10,1
+1955,Mister Roberts (1955),4.04,2
+1955,Rififi (Du rififi chez les hommes) (1955),4.04,2
+1956,"Killing, The (1956)",4.04,1
+1956,"Man Escaped, A (Un  condamné à mort s'est échappé ou Le vent souffle où il veut) (1956)",4.01,2
+1956,"Searchers, The (1956)",3.94,3
+1957,12 Angry Men (1957),4.24,1
+1957,Paths of Glory (1957),4.20,2
+1957,"Nights of Cabiria (Notti di Cabiria, Le) (1957)",4.11,3
+1958,Touch of Evil (1958),4.14,1
+1958,Vertigo (1958),4.12,2
+1958,"Hidden Fortress, The (Kakushi-toride no san-akunin) (1958)",3.95,3
+1959,North by Northwest (1959),4.20,1
+1959,"World of Apu, The (Apur Sansar) (1959)",4.11,2
+1959,"400 Blows, The (Les quatre cents coups) (1959)",4.11,2
+1960,Psycho (1960),4.07,1
+1960,Inherit the Wind (1960),4.06,2
+1960,"Apartment, The (1960)",4.03,3
+1961,Yojimbo (1961),4.18,1
+1961,"Hustler, The (1961)",4.07,2
+1961,Through a Glass Darkly (Såsom i en spegel) (1961),4.01,3
+1962,Harakiri (Seppuku) (1962),4.16,1
+1962,To Kill a Mockingbird (1962),4.15,2
+1962,Lawrence of Arabia (1962),4.14,3
+1963,High and Low (Tengoku to jigoku) (1963),4.14,1
+1963,"Great Escape, The (1963)",4.10,2
+1963,Charade (1963),4.05,3
+1964,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),4.22,1
+1964,Woman in the Dunes (Suna no onna) (1964),4.05,2
+1964,Seven Up! (1964),4.01,3
+1965,Operation 'Y' & Other Shurik's Adventures (1965),4.14,1
+1965,Red Beard (Akahige) (1965),4.02,2
+1965,For a Few Dollars More (Per qualche dollaro in più) (1965),3.99,3
+1966,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",4.13,1
+1966,"Man for All Seasons, A (1966)",4.10,2
+1966,Persona (1966),4.09,3
+1967,Cool Hand Luke (1967),4.09,1
+1967,In the Heat of the Night (1967),4.05,2
+1967,"Graduate, The (1967)",4.03,3
+1967,"Samouraï, Le (Godson, The) (1967)",4.03,3
+1968,Once Upon a Time in the West (C'era una volta il West) (1968),4.11,1
+1968,"Lion in Winter, The (1968)",4.03,2
+1968,2001: A Space Odyssey (1968),3.98,3
+1969,Andrei Rublev (Andrey Rublyov) (1969),4.07,1
+1969,Butch Cassidy and the Sundance Kid (1969),4.04,2
+1969,Army of Shadows (L'armée des ombres) (1969),4.02,3
+1969,Z (1969),4.02,3
+1970,Patton (1970),4.03,1
+1970,"Conformist, The (Conformista, Il) (1970)",3.99,2
+1970,Little Big Man (1970),3.96,3
+1971,"Last Picture Show, The (1971)",3.99,1
+1971,Harold and Maude (1971),3.98,2
+1971,Monty Python's And Now for Something Completely Different (1971),3.98,2
+1971,"Clockwork Orange, A (1971)",3.98,2
+1972,"Godfather, The (1972)",4.32,1
+1972,Gentlemen of Fortune (Dzhentlmeny udachi) (1972),4.01,2
+1972,Cries and Whispers (Viskningar och rop) (1972),4.00,3
+1973,"Sting, The (1973)",4.14,1
+1973,Scenes From a Marriage (Scener ur ett äktenskap) (1973),4.09,2
+1973,Ivan Vasilievich: Back to the Future (Ivan Vasilievich menyaet professiyu) (1973),4.08,3
+1974,"Godfather: Part II, The (1974)",4.26,1
+1974,Chinatown (1974),4.16,2
+1974,"Conversation, The (1974)",4.04,3
+1975,One Flew Over the Cuckoo's Nest (1975),4.22,1
+1975,Monty Python and the Holy Grail (1975),4.15,2
+1975,Dersu Uzala (1975),4.03,3
+1975,"Man Who Would Be King, The (1975)",4.03,3
+1976,Taxi Driver (1976),4.08,1
+1976,All the President's Men (1976),4.03,2
+1976,Network (1976),4.02,3
+1977,Star Wars: Episode IV - A New Hope (1977),4.12,1
+1977,Annie Hall (1977),4.04,2
+1977,21 Up (1977),3.96,3
+1977,That Obscure Object of Desire (Cet obscur objet du désir) (1977),3.96,3
+1978,"Last Waltz, The (1978)",3.98,1
+1978,"Deer Hunter, The (1978)",3.97,2
+1978,Autumn Sonata (Höstsonaten) (1978),3.96,3
+1979,Apocalypse Now (1979),4.11,1
+1979,Stalker (1979),4.08,2
+1979,Alien (1979),4.06,3
+1980,Star Wars: Episode V - The Empire Strikes Back (1980),4.14,1
+1980,Raging Bull (1980),4.05,2
+1980,Kagemusha (1980),4.03,3
+1980,"Shining, The (1980)",4.03,3
+1980,Breaker Morant (1980),4.03,3
+1981,"Boot, Das (Boat, The) (1981)",4.13,1
+1981,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),4.12,2
+1981,"Professional, The (Le professionnel) (1981)",4.05,3
+1982,Blade Runner (1982),4.12,1
+1982,Gandhi (1982),3.99,2
+1982,Fanny and Alexander (Fanny och Alexander) (1982),3.98,3
+1983,Star Wars: Episode VI - Return of the Jedi (1983),4.00,1
+1983,"Christmas Story, A (1983)",3.99,2
+1983,Local Hero (1983),3.95,3
+1983,Tender Mercies (1983),3.95,3
+1983,Koyaanisqatsi (a.k.a. Koyaanisqatsi: Life Out of Balance) (1983),3.95,3
+1984,Stop Making Sense (1984),4.10,1
+1984,Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),4.09,2
+1984,Amadeus (1984),4.07,3
+1984,"Killing Fields, The (1984)",4.07,3
+1985,Ran (1985),4.14,1
+1985,Come and See (Idi i smotri) (1985),4.08,2
+1985,Tampopo (1985),4.07,3
+1986,Jean de Florette (1986),4.11,1
+1986,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),4.07,2
+1986,Manon of the Spring (Manon des sources) (1986),4.07,2
+1987,"Princess Bride, The (1987)",4.13,1
+1987,Matewan (1987),4.05,2
+1987,Full Metal Jacket (1987),4.04,3
+1988,My Neighbor Totoro (Tonari no Totoro) (1988),4.15,1
+1988,"Thin Blue Line, The (1988)",4.11,2
+1988,Grave of the Fireflies (Hotaru no haka) (1988),4.10,3
+1989,"Decalogue, The (Dekalog) (1989)",4.14,1
+1989,Cinema Paradiso (Nuovo cinema Paradiso) (1989),4.13,2
+1989,Henry V (1989),4.11,3
+1989,Creature Comforts (1989),4.11,3
+1990,Goodfellas (1990),4.18,1
+1990,"Civil War, The (1990)",4.07,2
+1990,Trust (1990),4.02,3
+1991,"Silence of the Lambs, The (1991)",4.15,1
+1991,Raise the Red Lantern (Da hong deng long gao gao gua) (1991),4.12,2
+1991,Hearts of Darkness: A Filmmakers Apocalypse (1991),3.98,3
+1992,Reservoir Dogs (1992),4.09,1
+1992,Baraka (1992),4.08,2
+1992,Unforgiven (1992),3.99,3
+1993,Schindler's List (1993),4.25,1
+1993,Wallace & Gromit: The Wrong Trousers (1993),4.12,2
+1993,Some Folks Call It a Sling Blade (1993),4.07,3
+1994,"Shawshank Redemption, The (1994)",4.41,1
+1994,Pulp Fiction (1994),4.19,2
+1994,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),4.09,3
+1995,"Usual Suspects, The (1995)",4.28,1
+1995,Wallace & Gromit: A Close Shave (1995),4.10,2
+1995,Seven (a.k.a. Se7en) (1995),4.08,3
+1996,When We Were Kings (1996),4.13,1
+1996,Fargo (1996),4.11,2
+1996,Wallace & Gromit: The Best of Aardman Animation (1996),4.10,3
+1997,Life Is Beautiful (La Vita è bella) (1997),4.15,1
+1997,Princess Mononoke (Mononoke-hime) (1997),4.14,2
+1997,Good Will Hunting (1997),4.07,3
+1998,American History X (1998),4.14,1
+1998,"Celebration, The (Festen) (1998)",4.09,2
+1998,Central Station (Central do Brasil) (1998),4.07,3
+1999,Fight Club (1999),4.23,1
+1999,"Matrix, The (1999)",4.15,2
+1999,American Beauty (1999),4.11,3
+1999,Mulholland Dr. (1999),4.11,3
+2000,Memento (2000),4.15,1
+2000,Snatch (2000),4.06,2
+2000,In the Mood For Love (Fa yeung nin wa) (2000),4.04,3
+2001,Band of Brothers (2001),4.40,1
+2001,The Blue Planet (2001),4.25,2
+2001,Spirited Away (Sen to Chihiro no kamikakushi) (2001),4.21,3
+2002,City of God (Cidade de Deus) (2002),4.18,1
+2002,"Lord of the Rings: The Two Towers, The (2002)",4.07,2
+2002,"Pianist, The (2002)",4.05,3
+2003,"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",4.09,1
+2003,"Lord of the Rings: The Return of the King, The (2003)",4.09,1
+2003,Old Boy (2003),4.08,3
+2004,Howl's Moving Castle (Hauru no ugoku shiro) (2004),4.09,1
+2004,Eternal Sunshine of the Spotless Mind (2004),4.07,2
+2004,"Downfall (Untergang, Der) (2004)",3.99,3
+2005,49 Up (2005),3.99,1
+2005,Serenity (2005),3.98,2
+2005,Why We Fight (2005),3.94,3
+2006,Planet Earth (2006),4.46,1
+2006,"Lives of Others, The (Das leben der Anderen) (2006)",4.20,2
+2006,"Departed, The (2006)",4.12,3
+2007,No Country for Old Men (2007),4.03,1
+2007,Elite Squad (Tropa de Elite) (2007),3.99,2
+2007,Louis C.K.: Shameless (2007),3.99,2
+2008,"Dark Knight, The (2008)",4.17,1
+2008,Dear Zachary: A Letter to a Son About His Father (2008),4.08,2
+2008,Ghost in the Shell 2.0 (2008),4.04,3
+2009,Moon (2009),4.02,1
+2009,Inglourious Basterds (2009),4.01,2
+2009,"Secret in Their Eyes, The (El secreto de sus ojos) (2009)",3.99,3
+2010,Inception (2010),4.16,1
+2010,Incendies (2010),4.02,2
+2010,Louis C.K.: Hilarious (2010),4.00,3
+2011,Intouchables (2011),4.12,1
+2011,Samsara (2011),4.04,2
+2011,"Separation, A (Jodaeiye Nader az Simin) (2011)",3.97,3
+2011,Jiro Dreams of Sushi (2011),3.97,3
+2012,Paperman (2012),4.12,1
+2012,"Hunt, The (Jagten) (2012)",4.08,2
+2012,Wolf Children (Okami kodomo no ame to yuki) (2012),4.01,3
+2013,Over the Garden Wall (2013),4.26,1
+2013,Short Term 12 (2013),3.99,2
+2013,Prisoners (2013),3.99,2
+2014,Whiplash (2014),4.14,1
+2014,Wild Tales (2014),4.11,2
+2014,Interstellar (2014),4.10,3
+2015,The Jinx: The Life and Deaths of Robert Durst (2015),4.13,1
+2015,Spotlight (2015),4.08,2
+2015,"Big Short, The (2015)",4.03,3
+2015,The Martian (2015),4.03,3
+2016,Planet Earth II (2016),4.48,1
+2016,Piper (2016),4.14,2
+2016,The Night Of (2016),4.14,2
+2017,Blue Planet II (2017),4.29,1
+2017,Coco (2017),4.04,2
+2017,"Three Billboards Outside Ebbing, Missouri (2017)",4.01,3
+2018,Spider-Man: Into the Spider-Verse (2018),4.11,1
+2018,Free Solo (2018),3.99,2
+2018,Green Book (2018),3.94,3
+2018,Won't You Be My Neighbor? (2018),3.94,3
+2019,Parasite (2019),4.21,1
+2019,Joker (2019),4.05,2
+2019,Once Upon a Time in Hollywood (2019),3.91,3
